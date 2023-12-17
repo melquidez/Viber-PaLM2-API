@@ -1,4 +1,4 @@
-# ViberBot with PaLM2 API Integration
+# ViberBot with PaLM2 API Integration in Laravel
 
 ## Overview
 Viberbot integrated with the PaLM2 API from Google AI. The bot is built using PHP Laravel and used Ngrok for secure tunneling during development.
