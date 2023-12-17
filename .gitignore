@@ -1,9 +1,6 @@
 /.phpunit.cache
 /node_modules
-/public/build
-/public/hot
-/public/storage
-/storage/*.key
+/storage
 /vendor
 .env
 .env.backup
@@ -22,3 +19,10 @@ yarn-error.log
 /public
 /resources
 /test
+/routes/channels.php
+/routes/console.php
+/routes/web.php
+/config/*
+!/config/logging.php
+/app/*
+!/app/Http/Controllers
