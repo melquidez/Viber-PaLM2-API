@@ -25,3 +25,5 @@ yarn-error.log
 !/config/logging.php
 /app/*
 !/app/Http
+/app/Http/*
+!/app/Http/Controllers/
