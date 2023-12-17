@@ -33,11 +33,6 @@ Viberbot integrated with the PaLM2 API from Google AI. The bot is built using PH
 
 ## Contributing
 Contributions are welcome!
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-
 Feel free to explore, contribute, and enhance the capabilities of this ViberBot integrated with PaLM2 API. Happy coding!
 
 
