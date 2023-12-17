@@ -18,11 +18,10 @@ yarn-error.log
 /database
 /public
 /resources
-/test
-/routes/channels.php
-/routes/console.php
-/routes/web.php
+/tests
+/routes/*
+!/routes/api.php
 /config/*
 !/config/logging.php
 /app/*
-!/app/Http/Controllers
+!/app/Http/Controllers/ViberBotController.php
