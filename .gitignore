@@ -24,5 +24,6 @@ yarn-error.log
 /config/*
 !/config/logging.php
 /app/*
-!/app/Http/Controllers
+!/app/Http/
+!/app/Http/Controllers/
 !/app/Http/Controllers/ViberBotController.php
