@@ -28,6 +28,14 @@ Viberbot integrated with the PaLM2 API from Google AI. The bot is built using PH
 4. Run the development server: `php artisan serve`
 5. Run your ngrok development server: `ngrok http --domain=<YOUR-NGROK-URL> 8000`
 
+### .env
+`NGROK_ENDPOINT=<Your-ngrok-endpoint>
+
+VIBER_KEY=<your-viber-apikey>
+
+PALM_API_KEY=<your-palm2-key>
+PALM_API_CHAT_ENDPOINT=<chat-endpoint-url>
+PALM_API_TEXT_ENDPOINT=<text-endpoint-url>`
 
 ## Usage
 1. Register your bot on the Viber platform and configure the necessary settings.
